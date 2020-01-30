@@ -1,8 +1,5 @@
-Project includes Face Recognition and Storing the database required for Data modeling.
+Project includes Face Recognition and Storing the database required for Data modeling-
 
-Requirement:-
-
-Install Tensorflow,Keras,cv2,Pandas,Numpy to run this project on your system.
 
 (1) store_data.py needs to be run to store data which will be required for modeling data. (40 photos will be clicked and stored in "imagesave" Folder and create a file named "data.csv" with the name entered.)
 
